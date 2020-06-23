@@ -1,7 +1,7 @@
 const mysql = require("mysql");
 module.exports = mysql.createConnection({
- host: "localhost",
- user: "root",
- password: "",
- database: "apitest"
+ host: "sql9.freemysqlhosting.net",
+ user: "sql9350265",
+ password: "nPrDM6CWxT",
+ database: "sql9350265"
 });
